@@ -1,0 +1,15 @@
+h1 {
+	color: red; font: sans-serif;
+}
+
+body {
+	background-color: tan; position: center;
+}
+
+p {
+	color: blue; font: sans-serif;
+}
+
+ul {
+	color: green; font-size: 150%;
+}
